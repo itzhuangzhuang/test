@@ -1,0 +1,15 @@
+.settings
+.classpath
+.project
+*.versionsBackup
+
+*.iml
+.idea
+
+bin
+target
+
+.factorypath
+.springBeans
+.apt_generated
+logs
